@@ -20,4 +20,4 @@ Proyek ini bertujuan untuk memodelkan hubungan antar provinsi dalam permainan *E
 
 ## Fungsi Utama
 
-Fungsi utama proyek ini terdapat pada file `map.py`, yang bertanggung jawab untuk pembuatan graf hubungan antar provinsi.
+Fungsi utama proyek ini terdapat pada file `map.py` yang bertanggung jawab untuk pembuatan graf hubungan antar provinsi.
